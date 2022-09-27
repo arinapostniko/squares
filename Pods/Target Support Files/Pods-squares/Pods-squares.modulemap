@@ -1,0 +1,6 @@
+framework module Pods_squares {
+  umbrella header "Pods-squares-umbrella.h"
+
+  export *
+  module * { export * }
+}
